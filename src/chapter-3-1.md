@@ -1,5 +1,3 @@
-Factors affecting social media engagement
-===========================================================================================
 
 In this chapter, we will explore the factors that can affect social media engagement. We will discuss how these factors can impact user engagement and provide strategies for overcoming them.
 

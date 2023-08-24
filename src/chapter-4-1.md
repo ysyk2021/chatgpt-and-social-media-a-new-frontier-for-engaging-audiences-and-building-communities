@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-=======================================================================================
 
 In this chapter, we will introduce the concepts of AI and chatbots and their potential impact on social media. We will provide an overview of how AI and chatbots work, and discuss their capabilities and benefits for engaging audiences and building communities on social media platforms.
 

@@ -1,5 +1,3 @@
-Different Types of Social Media Platforms
-============================================================================
 
 Social media platforms come in many different forms, each with their own unique characteristics and features. Here are some of the most common types of social media platforms:
 

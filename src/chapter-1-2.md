@@ -1,5 +1,3 @@
-Explanation of the Importance of Social Media
-===========================================================
 
 Social media has become an integral part of modern communication, providing unprecedented opportunities for individuals and organizations to connect with others on a global scale. With the rise of social media, we have seen a fundamental shift in the way we communicate, share information, and build communities.
 

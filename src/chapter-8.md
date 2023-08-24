@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we have explored how ChatGPT can be used to engage audiences and build communities on social media. We have covered the basics of ChatGPT, its features and capabilities, and best practices for implementing it in social media platforms.
 

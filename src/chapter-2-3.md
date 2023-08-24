@@ -1,5 +1,3 @@
-Importance of Social Media for Communication
-===============================================================================
 
 In this chapter, we will explore the basics of social media and the importance of social media for communication. We will discuss the evolution of social media, how it has changed the way we communicate, and the benefits of using social media for communication.
 

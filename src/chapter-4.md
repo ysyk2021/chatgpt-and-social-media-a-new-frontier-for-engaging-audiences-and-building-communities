@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Social Media
-======================================================
 
 In this chapter, we will explore the role of AI and chatbots in social media. We will provide an introduction to AI and chatbots, discuss how they can improve social media engagement, and outline the benefits of using them for social media.
 

@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Social Media Engagement
-================================================
 
 In this chapter, we will explore the challenges that businesses and individuals face when it comes to social media engagement. We will discuss the factors that can impact social media engagement, common challenges faced by businesses and individuals, and the impact of these challenges on social media presence.
 

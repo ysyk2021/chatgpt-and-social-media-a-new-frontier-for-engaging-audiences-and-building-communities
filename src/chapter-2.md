@@ -1,5 +1,3 @@
-Chapter 1: Basics of Social Media
-=================================
 
 In this chapter, we will explore the basics of social media, including its definition, different types of social media platforms, and the importance of social media for communication.
 

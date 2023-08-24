@@ -1,5 +1,3 @@
-Definition of Social Media
-=============================================================
 
 Social media is a digital platform that allows users to create, share, and exchange information, ideas, and content with others. It enables communication and community building through various tools such as text, images, videos, and live streaming.
 
@@ -14,5 +12,4 @@ Social media platforms come in many different forms, each with their own unique 
 * Discussion forums: Platforms that facilitate online discussions around specific topics or interests. Examples include Reddit, Quora, and Stack Exchange.
 
 The diversity of social media platforms available means there are endless opportunities for individuals and organizations to connect with others, engage with their audience, and build strong communities around shared interests and values. By leveraging the power of social media, we can unlock new opportunities for growth, innovation, and collaboration in the digital age.
-
 

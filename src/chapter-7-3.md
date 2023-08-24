@@ -1,5 +1,3 @@
-Conclusion and future outlook
-=============================================================================
 
 In this book, we have explored how ChatGPT can be used to enhance social media engagement and build communities. We have discussed the basics of ChatGPT, its capabilities, and best practices for implementing it in social media platforms. In this final chapter, we will look at the future of social media with ChatGPT and provide a future outlook.
 

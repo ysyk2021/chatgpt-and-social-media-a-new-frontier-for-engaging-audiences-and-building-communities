@@ -1,5 +1,3 @@
-How AI and chatbots can improve social media engagement
-===============================================================================================================
 
 In this chapter, we will explore the role of AI and chatbots in social media. We will discuss how AI and chatbots can improve social media engagement and provide a more personalized and interactive experience for users.
 
