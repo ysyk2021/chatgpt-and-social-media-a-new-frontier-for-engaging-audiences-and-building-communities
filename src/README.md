@@ -10,3 +10,7 @@ This book is divided into several chapters that cover various topics related to 
 Whether you are a marketer, a social media strategist, or a chatbot developer, this book will provide valuable insights into how ChatGPT can be used to transform social media engagement. It is a must-read for anyone interested in leveraging the power of AI and NLP to build stronger relationships with their online communities.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
